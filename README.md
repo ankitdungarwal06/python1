@@ -209,3 +209,6 @@ Let me know which part you want to implement first! 😊
 
 https://ubuntu.com/server/docs/install-and-configure-postgresql //postgresql updates, installation and others
 
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com" //generate ssh file and add to GPG in settings
+
